@@ -6,7 +6,7 @@
 Below is an output tracking video, generated using the `Input.mp4` video and the settings specified in `config_work_720p.yml`:
 
 <div align="center">
-  <img src="https://github.com/javier-marti-isasi/Color-tracking-with-OpenCV/assets/73080100/06c52477-f135-485a-b7fe-c7e594536232" alt="output_frame" width="400">
+  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/c10d3b53-6482-4071-b2b4-6775b5afe0d4" alt="output_frame" width="600">
 </div>
 
 
@@ -236,7 +236,7 @@ Determines if tracking data should be saved as a CSV file and specifies the nami
 Below is a frame from the output video, generated using the `Input.mp4` video and the settings specified in `config_work_720p.yml`:
 
 <div align="center">
-  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/29d89db5-5594-42ee-9587-3f87689aea0e" alt="output_frame" width="400">
+  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/29d89db5-5594-42ee-9587-3f87689aea0e" alt="output_frame" width="600">
 </div>
 
 Find the output videos in the `tracking_application/output/video` directory.
@@ -245,7 +245,7 @@ Find the output videos in the `tracking_application/output/video` directory.
 Below is a frame from the output video displaying the mask used for traking. It is generated using the `Input.mp4` video and the settings specified in `config_work_720p.yml` with `show_mask: True`:
 
 <div align="center">
-  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/e7b735c1-6457-472e-8354-31d764b84f1a" alt="output_frame" width="400">
+  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/e7b735c1-6457-472e-8354-31d764b84f1a" alt="output_frame" width="600">
 </div>
 
 ### Output Data Example

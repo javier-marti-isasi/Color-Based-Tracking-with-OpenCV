@@ -262,6 +262,11 @@ Below are the tracking coordinates from the 30th frame through the 45th frame, d
     </thead>
     <tbody>
       <tr>
+        <td align="center">...</td>
+        <td align="center">...</td>
+        <td align="center">...</td>
+      </tr>
+      <tr>
         <td align="center">30</td>
         <td align="center">N/A</td>
         <td align="center">N/A</td>

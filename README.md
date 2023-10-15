@@ -32,7 +32,7 @@ Below is an output tracking video, generated using the `Input.mp4` video and the
 - **Robust Detection**: Ensure consistent tracking of the glowing tip, even with challenges like noise, varying lighting or temporary occlusions.
 - **High Configurability**: Empower users with the ability to fine-tune tracking parameters for diverse scenarios, user needs and optimal detection accuracy.
 
-## Why Color-based Tracking?
+## Why Color-Based Tracking?
 In the realm of computer vision, there's a myriad of tracking methods available, from traditional algorithms implemented in OpenCV to deep learning giants like YOLO. However, when it comes to tracking the glowing tip of a steel bar, the color-based tracking method has proven to be unparalleled in its effectiveness.
 
 Here's why:

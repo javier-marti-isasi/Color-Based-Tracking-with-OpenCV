@@ -9,6 +9,8 @@ Below is an output tracking video, generated using the `Input.mp4` video and the
   <img src="https://github.com/javier-marti-isasi/Color-tracking-with-OpenCV/assets/73080100/06c52477-f135-485a-b7fe-c7e594536232" alt="output_frame" width="400">
 </div>
 
+file:///home/javier/Downloads/output_720p.gif
+
 
 ## Table of Contents
 - [Objectives](#objectives)

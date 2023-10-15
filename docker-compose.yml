@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  # Service for tracking
+  tracking_service:
+    build:
+      context: .
+    image: tracking_image
+    environment:
+      - DISPLAY=${DISPLAY}  # Pass the DISPLAY environment variable for GUI applications
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix  # Mount X11 socket for GUI display
+    container_name: tracking_container
+    stdin_open: true  # Keep stdin open for the service, useful for interactive applications
+    tty: true  # Allocate a pseudo-TTY, useful for interactive applications

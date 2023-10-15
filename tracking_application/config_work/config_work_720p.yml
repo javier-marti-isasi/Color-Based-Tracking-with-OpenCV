@@ -1,0 +1,49 @@
+# 720p (HD): 1280x720
+
+# Video Output Configuration
+output_width: 1280
+output_height: 720
+output_fps: 60
+save_video: True # save output video in '/output/video/' directory
+output_name: "output_720p"
+output_format: "mp4" # formats available: avi, mp4, mov
+
+# Color Configuration for Tracking Bar
+lower_color: [0, 0, 251] # in HSV Color Space
+upper_color: [150, 35, 255] # in HSV Color Space
+blur_ksize: [17, 17]
+
+# Live Camera and Video Display Settings
+use_livecam: False # if True use Live Camera, if False use video input
+show_video: True
+show_mask: False # show mask used for tracking
+
+# Video Input Path
+video_input_path: "../input/Input.mp4"
+
+# Tracking Point Configuration
+point_color: [112, 173, 71] # in RGB Color Space
+point_border_color: [255, 255, 255] # in RGB Color Space
+point_radius: 13
+point_border_thickness: 3
+
+# Point Detection Configuration
+# Define the extremity (edge) of the bar to consider in the image for the point detection.
+# Acceptable values: "left", "right", "top", "bottom"
+# Example: For tracking an object moving from right to left, set value to "left"
+location_most: "top"
+
+# Scene Configuration for Masking
+# Currently, only two glowing bar scenes are configured.
+# Acceptable values: "glowing_bar_01", "glowing_bar_02"
+scene: "glowing_bar_02"
+
+# Video Data Settings
+show_frame_number: False
+show_coordinates: False
+text_color: [112, 173, 71] # in RGB Color Space
+
+# Tracking Data Settings
+# Save tracking data as csv in '/output/data/' directory
+save_data: True
+data_file_name: "coordinates_720p"

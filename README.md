@@ -6,7 +6,7 @@
 Below is an output tracking video, generated using the `Input.mp4` video and the settings specified in `config_work_720p.yml`:
 
 <div align="center">
-  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/c10d3b53-6482-4071-b2b4-6775b5afe0d4" alt="output_frame" width="600">
+  <img src="https://github.com/javier-marti-isasi/Color-Based-Tracking-with-OpenCV/assets/73080100/ba270620-24e1-47dc-adba-a7ffc536ae07" alt="output_frame" width="600">
 </div>
 
 
